@@ -12,4 +12,4 @@
 ## Сборка и запуск
 
 ```bash
-go run main.go
+go run matrixzad3.go
